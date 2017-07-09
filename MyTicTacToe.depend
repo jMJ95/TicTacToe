@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442879438 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tic tac toe\mytictactoe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1442879976 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\mytictactoe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
